@@ -1,1 +1,1 @@
-ALX is nice
+Being a programmer is really cool
