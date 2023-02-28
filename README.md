@@ -1,1 +1,2 @@
-my first readme
+Being a programmer is really cool
+
